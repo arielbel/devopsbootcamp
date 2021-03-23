@@ -1,7 +1,7 @@
 # Scripts for Sela BootCamp
 
 
-## PowerShell script
+## PowerShell scrip
 This is a simple PowerShell script that will write "I love the boot camp!" every minute waitseconds.
 The script will create a new task at the task scheduler with the name `TaskName` 
 and the script will be enable for `WaitSeconds` seconds.
